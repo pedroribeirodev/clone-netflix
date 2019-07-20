@@ -1,0 +1,14 @@
+.card {
+    background: #f0f0f0;
+    width: 33%;
+    text-align: center;
+    margin-right: 4.5px;
+    margin-top: 4.5px;
+    border-radius: 10px;
+}
+
+.card > img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
